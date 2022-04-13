@@ -1,0 +1,52 @@
+_repo: Idealia-a-Utopian-Dream-or-Resthaven_67641
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Dewey, Melvil
+    alias: Dewey, Melville Louis Kossuth
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '4402'
+    url: http://www.gutenberg.org/2009/agents/4402
+    wikipedia: https://en.wikipedia.org/wiki/Melvil_Dewey
+  - agent_name: Thompson, J. W. (John Wallace)
+    alias: Thompson, John Wallace
+    birthdate: 1844
+    deathdate: 1940
+    gutenberg_agent_id: '54372'
+    url: http://www.gutenberg.org/2009/agents/54372
+creator:
+  author:
+    agent_name: Thompson, H. Alfarata Chapman (Harriet Alfarata Chapman)
+    aliases:
+    - Thompson, Harriet Alfarata Chapman
+    - Chapman, H. Alfarata (Harriet Alfarata)
+    - Chapman, Harriet Alfarata
+    - Thompson, Mrs. John W.
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '54371'
+    url: http://www.gutenberg.org/2009/agents/54371
+description: ''
+gutenberg_issued: '2022-03-17'
+identifiers:
+  gutenberg: '67641'
+language: en
+pgterms:marc904: https://archive.org/details/idealiautopiandr00thom/page/n7/mode/2up
+pgterms:marc905: 20200807192905thompson
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, Guus Snijders and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :J. B. Lyon Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Utopian fiction'
+- GITenberg
+title: Idealia, a Utopian Dream; or, Resthaven
+url: http://www.gutenberg.org/ebooks/67641
