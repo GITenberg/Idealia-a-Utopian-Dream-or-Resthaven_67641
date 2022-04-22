@@ -15,6 +15,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '54372'
     url: http://www.gutenberg.org/2009/agents/54372
+covers:
+- cover_type: archival
+  image_path: 67641-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, H. Alfarata Chapman (Harriet Alfarata Chapman)
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '54371'
     url: http://www.gutenberg.org/2009/agents/54371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67641#Idealia-a-Utopian-Dream-or-Resthaven
 gutenberg_issued: '2022-03-17'
 identifiers:
   gutenberg: '67641'
